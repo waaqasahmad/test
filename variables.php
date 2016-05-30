@@ -33,7 +33,7 @@ for($i=0;$i<=$count;$i++)
 	echo $sum."<br>";
 }
 
-//for sort an array
+//function for sort an array
 $array=array('2','4','8','5','1','7','6','9','10','3');
 
 for($j=0;$j<=count($array);$j++)
